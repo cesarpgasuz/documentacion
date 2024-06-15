@@ -2,7 +2,7 @@
 
 en el archivo index.css agregamos la siguiente configuracion
 
-```css
+```css title="index.css o globals.css"
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
